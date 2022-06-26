@@ -1,0 +1,5 @@
+Category,0,1,2,3,4
+Reliability,0,0.2,0.4,0.8,Forbidden
+Temporal correlation,0,0.03,0.1,0.18,0.26
+Geographical correlation,0,0.04,0.08,0.1,0.25
+Product correlation,0,0.17,0.53,0.84,1.37

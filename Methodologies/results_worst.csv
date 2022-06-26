@@ -1,0 +1,54 @@
+,Emission source,Description,Activity data 1,Activity data 2,Factor 1,Factor 2,Factor 3,Final uncertainty Activity data 1,Final uncertainty Activity data 2,Final uncertainty Factor 1,Final uncertainty Factor 2,Final uncertainty Factor 3,Total uncertainty
+0,1,Fuel consumption,fuel consumption,nan,fuel emission factor,nan,nan,11.8,,4.4,,,69.1
+1,2,Fuel consumption,fuel consumption,nan,fuel emission factor,nan,nan,11.8,,4.4,,,69.1
+2,2,Time of use of a machine- power generated- and average consumption,time of use of machine,nan,average time consumption,nan,nan,11.8,,5.1,,,77.6
+3,1,Fuel bills,fuel bills,nan,fuel monetary emission factor,nan,nan,11.2,,13.7,,,180.0
+4,2,Fuel bills,fuel bills,nan,mobile fuel monetary emission factor,nan,nan,11.2,,13.7,,,180.0
+5,2,Kilometers driven,kilometers driven,nan,mobile fuel emission factor,nan,nan,11.8,,4.4,,,69.1
+6,3,Direct emissions measurement,direct emission measurement,nan,global warming potential,nan,nan,11.8,,5.5,,,83.2
+7,4,Leaked amount (volume or mass) and measured gaz,leaked amount,nan,global warming potential,nan,nan,11.8,,5.5,,,83.2
+8,5,Switch type and total surface,total surface footprint,nan,artificilisation emission factor,nan,nan,11.8,,7.2,,,105.4
+9,6,Electricity consumption,electricity consumption,nan,electricity emission factor,nan,nan,11.8,,4.6,,,71.9
+10,6,Electricity bills ,electricity bills,nan,electricity monetary emission factor,nan,nan,11.2,,13.7,,,180.0
+11,7,Energy consumption,energy consumption,nan,energy emission factor,nan,nan,11.8,,5.5,,,83.2
+12,7,Energy bills ,energy bills,nan,energy monetary emission factor,nan,nan,11.2,,15.0,,,195.9
+13,8,"See emission source 1-2-4-6 - proportional 
+1        82
+2        82.6
+4        69.8
+6        75.39466667",nan,nan,nan,nan,nan,,,,,,0.0
+14,18,Not accounted for - depending on product - apply uncertainty model ,nan,nan,nan,nan,nan,,,,,,0.0
+15,19,Not accounted for - depending on product - apply uncertainty model ,nan,nan,nan,nan,nan,,,,,,0.0
+16,20,Unrelevant,nan,nan,nan,nan,nan,,,,,,0.0
+17,23,Not accounted for - depending on case - apply uncertainty model,nan,nan,nan,nan,nan,,,,,,0.0
+18,9a,Good quantity,good unit,nan,product emission factor,nan,nan,11.8,,6.4,,,94.3
+19,9a,Good price,good price,nan,product monetary emission factor,nan,nan,11.2,,17.2,,,222.2
+20,9b,Service price,service price,nan,service monetary emission factor,nan,nan,11.2,,21.5,,,274.8
+21,10,Amortisation expense,amortisation,nan,product monetary yearly emission factor,nan,nan,11.2,,17.2,,,222.2
+22,14,leasing expense,leasing price,nan,product monetary yearly emission factor,nan,nan,11.2,,17.2,,,222.2
+23,21,leasing expense,leasing price,nan,product monetary yearly emission factor,nan,nan,11.2,,17.2,,,222.2
+24,10,Asset quantity,asset quantity,nan,product yearly emission factor,nan,nan,11.8,,6.4,,,94.3
+25,14,Leased asset quantity,asset quantity,nan,product yearly emission factor,nan,nan,11.8,,6.4,,,94.3
+26,21,Leased asset quantity,asset quantity,nan,product yearly emission factor,nan,nan,11.8,,6.4,,,94.3
+27,21,Leased asset computed weight,asset quantity,nan,mass per asset unit,nan,nan,11.8,,4.4,,,69.1
+28,14,Leased asset computed weight,asset unit,nan,mass per asset unit,nan,nan,11.8,,4.4,,,69.1
+29,11,Waste quantity,waste unit,nan,product disposal emission factor,nan,nan,11.8,,,,,12.8
+30,11,Waste disposal price,waste disposal price,nan,product disposal monetary emission factor,nan,nan,11.2,,6.4,,,90.1
+31,13,Travels with distance travelled ,distance travelled,nan,travel emission factor,nan,nan,11.8,,7.2,,,105.4
+32,16,Travels with distance travelled ,distance travelled,nan,travel emission factor,nan,nan,11.8,,7.2,,,105.4
+33,22,Travels with distance travelled ,distance travelled,nan,travel emission factor,nan,nan,11.8,,7.2,,,105.4
+34,12,Freight expenses,freight price,nan,freight monetary emission factor,nan,nan,11.2,,17.2,,,222.2
+35,17,Freight expenses,freight price,nan,freight monetary emission factor,nan,nan,11.2,,17.2,,,222.2
+36,13,Agglomerated travel expenses,travel price,nan,travel monetary emission factor,nan,nan,11.2,,21.5,,,274.8
+37,16,Agglomerated travel expenses,travel price,nan,travel monetary emission factor,nan,nan,11.2,,21.5,,,274.8
+38,22,Travel expenses,travel price,nan,travel monetary emission factor,nan,nan,11.2,,21.5,,,274.8
+39,15,Invested amount,invested amount,nan,monetary emission factor investment,nan,nan,11.8,,,,,12.8
+40,12,Freight with distance travelled and mass transported,distance travelled,mass transported,freight emission factor,nan,nan,11.8,11.8,7.2,,,1349.3
+41,17,Freight with distance travelled and mass transported,distance travelled,mass transported,freight emission factor,nan,nan,11.8,11.8,7.2,,,1349.3
+42,1,Time of use of a machine- power generated- and average consumption,time of use of machine,nan,average time consumption,fuel emission factor,nan,11.8,,5.1,4.4,,419.0
+43,3,Production activity and chemical ratio,production activity data,nan,chemical ratio,global warming potential,nan,11.8,,5.1,5.5,,504.0
+44,4,Total mass of gaz- extrapolated leakage rate- measured gaz,total amount of gaz,nan,leakage rate,global warming potential,nan,11.8,,6.4,5.5,,612.9
+45,9a,Good computed weight,good unit,nan,mass per product unit,product mass emission factor,nan,11.8,,4.4,6.4,,509.5
+46,10,Asset computed weight,asset quantity,nan,mass per asset unit,asset mass emission factor,nan,11.8,,4.4,6.4,,509.5
+47,11,Waste computed weight,waste unit,nan,mass per waste unit,waste disposal mass emission factor,nan,11.8,,4.4,6.4,,509.5
+48,4,Air conditionned surface-  average gaz consumption per square meter- average leakage,air conditionned surface,nan,average gaz consumption per surface,leakage rate,global warming potential,11.8,,6.4,6.4,5.5,4517.5

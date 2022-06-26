@@ -1,0 +1,109 @@
+,1
+fuel emission factor,0
+average time consumption,1
+fuel monetary emission factor,2
+mobile fuel emission factor,3
+mobile fuel monetary emission factor,4
+global warming potential,5
+chemical ratio,6
+leakage rate,7
+average gaz consumption per surface,8
+artificilisation emission factor,9
+electricity emission factor,10
+electricity monetary emission factor,11
+energy emission factor,12
+energy monetary emission factor,13
+,47
+product emission factor,15
+mass per product unit,16
+product monetary emission factor,17
+service monetary emission factor,18
+product monetary yearly emission factor,19
+product yearly emission factor,20
+mass per asset unit,21
+product disposal emission factor,22
+mass per waste unit,23
+product disposal monetary emission factor,24
+freight emission factor,25
+freight monetary emission factor,26
+travel emission factor,27
+travel monetary emission factor,28
+monetary emission factor investment,29
+product mass emission factor,30
+asset mass emission factor,31
+waste disposal mass emission factor,32
+fuel consumption,33
+time of use of machine,34
+fuel bills,35
+kilometers driven,36
+direct emission measurement,37
+production activity data,38
+leaked amount,39
+total amount of gaz,40
+air conditionned surface,41
+total surface footprint,42
+electricity consumption,43
+electricity bills,44
+energy consumption,45
+energy bills,46
+good unit,48
+good price,49
+service price,50
+amortisation,51
+asset quantity,52
+waste unit,53
+waste disposal price,54
+distance travelled,55
+freight price,56
+travel price,57
+leasing price,58
+asset unit,59
+invested amount,60
+mass transported,61
+Verified data based on measurement,62
+Non verified data based on measurements,63
+Non verified data partly based on estimates,64
+Qualified estimate,95
+Non qualified estimate,96
+Representative data from all relevant sites ,67
+Representative data over more than 90% of relevant sites ,68
+Representative data over more than 75% relevant sites ,69
+Representative data over more than 50% relevant sites ,70
+Unknown,76
+Representative data over the complete year of measurement,72
+Less than 1 month missing,73
+Less than 3 months missing,74
+Less than 6 months missing,75
+Strictly less than 1 year between dataset and intented measurement,77
+Strictly less 2 years between dataset and intented measurement,78
+Stricty less than 3 years between dataset and intented measurement,79
+Strictly less than 4 years between dataset and intented measurement,80
+"Unknown, or more than 5 years between dataset and intented measurement",81
+Dataset fits the exact area of the intented measurement,82
+Dataset fits the exact area than the intented measurement,83
+Dataset stems from a similar area to that of the intented measurement,84
+Dataset stems from a sligthtly similar area to that of the intented measurement,85
+Dataset stems from a distinct area to that of the intented measurement or data geographical scope is unknown.,86
+"Data stems from entreprises, processes and materials under study",87
+"Data stems from process and materials under study, but different production sites",88
+Data stems from processes and materials under study but different technology,89
+Data stems from related processes and materials,90
+Data stems from processes on laboratory scale or a different technology,91
+Verified factor from offical data source,92
+Verified factor based on factor averages,93
+Non verified factor stemming from internal calculations,94
+Less than 3 years between factor and dataset,97
+Less 6 years between factor and dataset,98
+Less than 10 years between factor and dataset,99
+Less than 15 years between factor and dataset,100
+"Unknown, or more than 15 years between factor and dataset",101
+Factor fits the exact area of the data measured or unrelevant (global factor eg GWP),102
+Factor fits the exact area of the data measured,103
+Factor fits a similar area to the data measured,104
+Factor fits a sightly similar area to the data measured,105
+Factor stems from a distinct area to that of the used dataset or data geographical scope is unknown.,106
+Factor stems from an internal LCA,107
+"Factor stems from process and materials and product under study, but from an external LCA",108
+Factor stems from processes and materials under study but different product,109
+Factor stems from related processes and materials,110
+Factor stems from processes on laboratory scale or a different technology,111

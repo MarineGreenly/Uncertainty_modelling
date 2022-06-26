@@ -1,0 +1,3 @@
+Category,0,1,2,3,4
+Price sensitivity,No price dependency,Price variability coefficient estimation over less than 0.2,Price variability coefficient estimation less than 0.5,Price variability coefficient estimation less than 1,Price variability coefficient estimation more than 1
+Product variation,Product or service - specific,Very homogenous (physical emissions factors with base uncertainty less than 20%),Homogenous (physical emissions factors with base uncertainty less than 50%),Heterogenous (physical emissions factors with base uncertainty less than 100%),Very heterogenous (physical emissions factors with base uncertainty more than 100%)

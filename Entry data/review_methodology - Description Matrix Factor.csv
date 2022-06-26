@@ -1,0 +1,5 @@
+Category,0,1,2,3,4
+Reliability,Verified factor from offical data source,Verified factor based on factor averages,Non verified factor stemming from internal calculations,Qualified estimate,Non qualified estimate
+Temporal correlation,Less than 3 years between factor and dataset,Less 6 years between factor and dataset,Less than 10 years between factor and dataset,Less than 15 years between factor and dataset,"Unknown, or more than 15 years between factor and dataset"
+Geographical correlation,Factor fits the exact area of the data measured or unrelevant (global factor eg GWP),Factor fits the exact area of the data measured,Factor fits a similar area to the data measured,Factor fits a sightly similar area to the data measured,Factor stems from a distinct area to that of the used dataset or data geographical scope is unknown.
+Product correlation,Factor stems from an internal LCA,"Factor stems from process and materials and product under study, but from an external LCA",Factor stems from processes and materials under study but different product,Factor stems from related processes and materials,Factor stems from processes on laboratory scale or a different technology

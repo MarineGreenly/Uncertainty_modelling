@@ -1,0 +1,19 @@
+,Unnamed: 0,scope,methodology,Activity data 1,Activity data 2,Factor 1,Factor 2,Factor 3,Final uncertainty Activity data 1,Final uncertainty Activity data 2,Final uncertainty Factor 1,Final uncertainty Factor 2,Final uncertainty Factor 3,Total uncertainty,Available,Current,value,pertinent,variance,modelisation disponible
+0,0.0,1,Fuel consumption,fuel consumption,,fuel emission factor,,,1.1,,0.8,,,3.7,True,False,3.373046875,True,12.480273437500001,True
+24,24.0,10,Asset quantity,asset quantity,,product yearly emission factor,,,1.1,,2.2,,,6.7,True,False,3.105,True,20.8035,True
+29,29.0,11,Waste quantity,waste unit,,product disposal emission factor,,,1.1,,,,,1.9,True,False,1.161,True,2.2058999999999997,True
+34,34.0,12,Freight expenses,freight price,,freight monetary emission factor,,,0.0,,8.4,,,9.3,True,True,5.391,True,50.136300000000006,True
+31,31.0,13,Travels with distance travelled ,distance travelled,,travel emission factor,,,1.1,,1.8,,,6.0,True,False,1.027,True,6.161999999999999,True
+28,28.0,14,Leased asset computed weight,asset unit,,mass per asset unit,,,1.1,,0.3,,,2.7,True,False,0.571,True,1.5417,True
+39,39.0,15,Invested amount,invested amount,,monetary emission factor investment,,,0.3,,,,,0.9,True,True,0.357,True,0.3213,True
+32,32.0,16,Travels with distance travelled ,distance travelled,,travel emission factor,,,1.1,,1.8,,,6.0,True,False,2.992,True,17.951999999999998,True
+35,35.0,17,Freight expenses,freight price,,freight monetary emission factor,,,0.0,,8.4,,,9.3,True,True,22.704,True,211.14720000000003,True
+1,1.0,2,Fuel consumption,fuel consumption,,fuel emission factor,,,1.1,,0.8,,,3.7,True,False,0.0,True,0.0,True
+33,33.0,22,Travels with distance travelled ,distance travelled,,travel emission factor,,,1.1,,1.8,,,6.0,True,False,1.852,True,11.112,True
+6,6.0,3,Direct emissions measurement,direct emission measurement,,global warming potential,,,1.1,,1.3,,,4.8,True,False,0.0,True,0.0,True
+7,7.0,4,Leaked amount (volume or mass) and measured gaz,leaked amount,,global warming potential,,,1.1,,1.3,,,4.8,True,False,0.0,True,0.0,True
+8,8.0,5,Switch type and total surface,total surface footprint,,artificilisation emission factor,,,1.1,,1.8,,,6.0,True,False,0.0,True,0.0,True
+9,9.0,6,Electricity consumption,electricity consumption,,electricity emission factor,,,1.1,,0.9,,,3.9,True,False,1.275390625,True,4.9740234375,True
+11,11.0,7,Energy consumption,energy consumption,,energy emission factor,,,1.1,,1.2,,,4.7,True,False,0.0,True,0.0,True
+18,18.0,9a,Good quantity,good unit,,product emission factor,,,1.1,,2.2,,,6.7,True,False,30.884,True,206.9228,True
+20,20.0,9b,Service price,service price,,service monetary emission factor,,,0.0,,10.5,,,11.4,True,True,30.884,True,352.0776,True

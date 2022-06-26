@@ -1,0 +1,10 @@
+,Unnamed: 0,scope,methodology,Activity data 1,Activity data 2,Factor 1,Factor 2,Factor 3,Final uncertainty Activity data 1,Final uncertainty Activity data 2,Final uncertainty Factor 1,Final uncertainty Factor 2,Final uncertainty Factor 3,Total uncertainty,Available,Current,value,pertinent,variance,modelisation disponible
+13,13.0,8,"See emission source 1-2-4-6 - proportional 
+1        82
+2        82.6
+4        69.8
+6        75.39466667",,,,,,,,,,,0.0,True,False,2.231,True,0.0,False
+14,14.0,18,Not accounted for - depending on product - apply uncertainty model ,,,,,,,,,,,0.0,True,False,19.105,True,0.0,False
+15,15.0,19,Not accounted for - depending on product - apply uncertainty model ,,,,,,,,,,,0.0,True,False,9.362,True,0.0,False
+17,17.0,23,Not accounted for - depending on case - apply uncertainty model,,,,,,,,,,,0.0,True,False,1.667,True,0.0,False
+43,43.0,3,Production activity and chemical ratio,production activity data,,chemical ratio,global warming potential,,1.1,,0.8,1.3,,8.8,False,False,0.0,True,0.0,True

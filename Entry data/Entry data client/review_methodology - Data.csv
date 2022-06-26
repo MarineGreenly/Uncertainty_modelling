@@ -1,0 +1,30 @@
+Data,Default base uncertainty,Description,Is monetary,Source,Reliability,Geographical completeness,Time completeness,Temporal correlation,Geographical correlation,Product correlation,Available
+fuel consumption,0.05,Measurement precision,FALSE,Assumption,1,0,0,0,0,0,TRUE
+time of use of machine,0.05,Measurement precision,FALSE,Assumption,1,0,0,0,0,0,TRUE
+fuel bills,0.00,,TRUE,,0,0,0,0,0,0,TRUE
+kilometers driven,0.05,Measurement precision,FALSE,Assumption,1,0,0,0,0,0,TRUE
+direct emission measurement,0.05,Measurement precision,FALSE,Assumption,1,0,0,0,0,0,TRUE
+production activity data,0.05,Measurement precision,FALSE,Assumption,1,0,0,0,0,0,FALSE
+leaked amount,0.05,Measurement precision,FALSE,Assumption,1,0,0,0,0,0,TRUE
+total amount of gaz,0.05,Measurement precision,FALSE,Assumption,1,0,0,0,0,0,TRUE
+air conditionned surface,0.05,Measurement precision,FALSE,Assumption,1,0,0,0,0,0,TRUE
+total surface footprint,0.05,Measurement precision,FALSE,Assumption,1,0,0,0,0,0,TRUE
+electricity consumption,0.05,Measurement precision,FALSE,Assumption,1,0,0,0,0,0,TRUE
+electricity bills,0.00,,TRUE,,0,0,0,0,0,0,TRUE
+energy consumption,0.05,Measurement precision,FALSE,Assumption,1,0,0,0,0,0,TRUE
+energy bills,0.00,,TRUE,,0,0,0,0,0,0,TRUE
+,,,,,,,,,,,TRUE
+good unit,0.05,Measurement precision,FALSE,Assumption,1,0,0,0,0,0,TRUE
+good price,0.00,,TRUE,,0,0,0,0,0,0,TRUE
+service price,0.00,,TRUE,,0,0,0,0,0,0,TRUE
+amortisation,0.00,,TRUE,,0,0,0,0,0,0,TRUE
+asset quantity,0.05,Measurement precision,FALSE,Assumption,1,0,0,0,0,0,TRUE
+waste unit,0.05,Measurement precision,FALSE,Assumption,1,0,0,0,0,0,TRUE
+waste disposal price,0.00,,TRUE,,0,0,0,0,0,0,TRUE
+distance travelled,0.05,Measurement precision,FALSE,Assumption,1,0,0,0,0,0,TRUE
+freight price,0.00,,TRUE,,0,0,0,0,0,0,TRUE
+travel price,0.00,,TRUE,,0,0,0,0,0,0,TRUE
+leasing price,0.00,,TRUE,,0,0,0,0,0,0,TRUE
+asset unit,0.05,Measurement precision,FALSE,Assumption,1,0,0,0,0,0,TRUE
+invested amount,0.05,Measurement precision,FALSE,Assumption,0,0,0,0,0,0,TRUE
+mass transported,0.05,Measurement precision,FALSE,Assumption,1,0,0,0,0,0,TRUE

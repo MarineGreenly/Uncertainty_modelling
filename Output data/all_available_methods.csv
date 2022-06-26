@@ -1,0 +1,41 @@
+,Unnamed: 0,scope,methodology,Activity data 1,Activity data 2,Factor 1,Factor 2,Factor 3,Final uncertainty Activity data 1,Final uncertainty Activity data 2,Final uncertainty Factor 1,Final uncertainty Factor 2,Final uncertainty Factor 3,Total uncertainty,Available,Current,value,pertinent,variance,modelisation disponible
+0,0.0,1,Fuel consumption,fuel consumption,,fuel emission factor,,,1.1,,0.8,,,3.7,True,False,3.373046875,True,12.480273437500001,True
+1,1.0,2,Fuel consumption,fuel consumption,,fuel emission factor,,,1.1,,0.8,,,3.7,True,False,0.0,True,0.0,True
+2,2.0,2,Time of use of a machine- power generated- and average consumption,time of use of machine,,average time consumption,,,1.1,,3.4,,,9.3,True,False,0.0,True,0.0,True
+3,3.0,1,Fuel bills,fuel bills,,fuel monetary emission factor,,,0.0,,6.7,,,7.6,True,True,3.373046875,True,25.635156249999998,True
+4,4.0,2,Fuel bills,fuel bills,,mobile fuel monetary emission factor,,,0.0,,6.7,,,7.6,True,True,0.0,True,0.0,True
+5,5.0,2,Kilometers driven,kilometers driven,,mobile fuel emission factor,,,1.1,,0.8,,,3.7,True,False,0.0,True,0.0,True
+6,6.0,3,Direct emissions measurement,direct emission measurement,,global warming potential,,,1.1,,1.3,,,4.8,True,False,0.0,True,0.0,True
+7,7.0,4,Leaked amount (volume or mass) and measured gaz,leaked amount,,global warming potential,,,1.1,,1.3,,,4.8,True,False,0.0,True,0.0,True
+8,8.0,5,Switch type and total surface,total surface footprint,,artificilisation emission factor,,,1.1,,1.8,,,6.0,True,False,0.0,True,0.0,True
+9,9.0,6,Electricity consumption,electricity consumption,,electricity emission factor,,,1.1,,0.9,,,3.9,True,False,1.275390625,True,4.9740234375,True
+10,10.0,6,Electricity bills ,electricity bills,,electricity monetary emission factor,,,0.0,,6.7,,,7.6,True,True,1.275390625,True,9.69296875,True
+11,11.0,7,Energy consumption,energy consumption,,energy emission factor,,,1.1,,1.2,,,4.7,True,False,0.0,True,0.0,True
+12,12.0,7,Energy bills ,energy bills,,energy monetary emission factor,,,0.0,,7.3,,,8.2,True,True,0.0,True,0.0,True
+18,18.0,9a,Good quantity,good unit,,product emission factor,,,1.1,,2.2,,,6.7,True,False,30.884,True,206.9228,True
+19,19.0,9a,Good price,good price,,product monetary emission factor,,,0.0,,8.4,,,9.3,True,True,30.884,True,287.2212,True
+20,20.0,9b,Service price,service price,,service monetary emission factor,,,0.0,,10.5,,,11.4,True,True,30.884,True,352.0776,True
+21,21.0,10,Amortisation expense,amortisation,,product monetary yearly emission factor,,,0.0,,8.4,,,9.3,True,True,3.105,True,28.876500000000004,True
+22,22.0,14,leasing expense,leasing price,,product monetary yearly emission factor,,,0.0,,8.4,,,9.3,True,True,0.571,True,5.3103,True
+24,24.0,10,Asset quantity,asset quantity,,product yearly emission factor,,,1.1,,2.2,,,6.7,True,False,3.105,True,20.8035,True
+25,25.0,14,Leased asset quantity,asset quantity,,product yearly emission factor,,,1.1,,2.2,,,6.7,True,False,0.571,True,3.8257,True
+28,28.0,14,Leased asset computed weight,asset unit,,mass per asset unit,,,1.1,,0.3,,,2.7,True,False,0.571,True,1.5417,True
+29,29.0,11,Waste quantity,waste unit,,product disposal emission factor,,,1.1,,,,,1.9,True,False,1.161,True,2.2058999999999997,True
+30,30.0,11,Waste disposal price,waste disposal price,,product disposal monetary emission factor,,,0.0,,2.2,,,3.0,True,False,1.161,True,3.483,True
+31,31.0,13,Travels with distance travelled ,distance travelled,,travel emission factor,,,1.1,,1.8,,,6.0,True,False,1.027,True,6.161999999999999,True
+32,32.0,16,Travels with distance travelled ,distance travelled,,travel emission factor,,,1.1,,1.8,,,6.0,True,False,2.992,True,17.951999999999998,True
+33,33.0,22,Travels with distance travelled ,distance travelled,,travel emission factor,,,1.1,,1.8,,,6.0,True,False,1.852,True,11.112,True
+34,34.0,12,Freight expenses,freight price,,freight monetary emission factor,,,0.0,,8.4,,,9.3,True,True,5.391,True,50.136300000000006,True
+35,35.0,17,Freight expenses,freight price,,freight monetary emission factor,,,0.0,,8.4,,,9.3,True,True,22.704,True,211.14720000000003,True
+36,36.0,13,Agglomerated travel expenses,travel price,,travel monetary emission factor,,,0.0,,10.5,,,11.4,True,True,1.027,True,11.707799999999999,True
+37,37.0,16,Agglomerated travel expenses,travel price,,travel monetary emission factor,,,0.0,,10.5,,,11.4,True,True,2.992,True,34.1088,True
+38,38.0,22,Travel expenses,travel price,,travel monetary emission factor,,,0.0,,10.5,,,11.4,True,True,1.852,True,21.1128,True
+39,39.0,15,Invested amount,invested amount,,monetary emission factor investment,,,0.3,,,,,0.9,True,True,0.357,True,0.3213,True
+40,40.0,12,Freight with distance travelled and mass transported,distance travelled,mass transported,freight emission factor,,,1.1,1.1,1.8,,,12.9,True,False,5.391,True,69.54390000000001,True
+41,41.0,17,Freight with distance travelled and mass transported,distance travelled,mass transported,freight emission factor,,,1.1,1.1,1.8,,,12.9,True,False,22.704,True,292.8816,True
+42,42.0,1,Time of use of a machine- power generated- and average consumption,time of use of machine,,average time consumption,fuel emission factor,,1.1,,3.4,0.8,,16.8,True,False,3.373046875,True,56.667187500000004,True
+44,44.0,4,Total mass of gaz- extrapolated leakage rate- measured gaz,total amount of gaz,,leakage rate,global warming potential,,1.1,,1.5,1.3,,12.4,True,False,0.0,True,0.0,True
+45,45.0,9a,Good computed weight,good unit,,mass per product unit,product mass emission factor,,1.1,,0.3,2.2,,8.9,True,False,30.884,True,274.86760000000004,True
+46,46.0,10,Asset computed weight,asset quantity,,mass per asset unit,asset mass emission factor,,1.1,,0.3,2.2,,8.9,True,False,3.105,True,27.6345,True
+47,47.0,11,Waste computed weight,waste unit,,mass per waste unit,waste disposal mass emission factor,,1.1,,0.3,2.2,,8.9,True,False,1.161,True,10.3329,True
+48,48.0,4,Air conditionned surface-  average gaz consumption per square meter- average leakage,air conditionned surface,,average gaz consumption per surface,leakage rate,global warming potential,1.1,,1.5,1.5,1.3,31.5,True,True,0.0,True,0.0,True
